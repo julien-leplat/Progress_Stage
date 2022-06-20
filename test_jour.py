@@ -92,7 +92,7 @@ liste_motivation=[
     "Dis-toi qu'à la fin du mois, t'auras un gros sala... ouais non en fait oublie.",
     "Allez mon gars, je sais que c'est dur, comme du pain rassis",
     "Tu veux arrêter c'est ça, tu crois que c'est simple la vie.",
-    "Je sais qui m'a codée mais il doit être vachement beau",
+    "Je sais pas qui m'a codée mais il doit être vachement beau",
     "T'sais que t'es beau (belle)!",
     "Oulah, il y a une salle ambiance ici, y'a un enterrement.",
     "\"C'est à moi que tu parles ? C'est à moi que tu parles ? On m'appelle MONSIEUR Porc\" Pumba, Le Roi Lion",
