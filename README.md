@@ -1,5 +1,9 @@
 # Progress_Stage
 
+Affichage :
+![image](https://user-images.githubusercontent.com/80824116/178150433-a77e53ac-7603-4735-9f87-17b6b64f1684.png)
+
+
 Des paramètres sont à changer :
 
 Les horaires :
